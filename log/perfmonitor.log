@@ -1,0 +1,41 @@
+[DEBUG] [Mon,2014-11-03 22:10:09] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Mon,2014-11-03 22:10:39] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Mon,2014-11-03 22:12:40] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Mon,2014-11-03 22:18:51] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Mon,2014-11-03 22:19:52] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-03-22-19-52.tar.gz ./perflog/
+[DEBUG] [Mon,2014-11-03 22:24:48] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Mon,2014-11-03 22:25:49] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-03-22-25-49.tar.gz ./perflog/
+[DEBUG] [Mon,2014-11-03 22:39:49] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Mon,2014-11-03 22:40:13] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Mon,2014-11-03 22:40:14] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-03-22-40-14.tar.gz ./perfimg/
+[DEBUG] [Mon,2014-11-03 22:40:15] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-03-22-40-14.tar.gz
+[DEBUG] [Mon,2014-11-03 22:45:39] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Mon,2014-11-03 22:45:40] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-03-22-45-40.tar.gz ./perfimg/
+[DEBUG] [Mon,2014-11-03 22:45:40] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-03-22-45-40.tar.gz
+[DEBUG] [Mon,2014-11-03 23:10:13] [logging-line:1608] [debug-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Mon,2014-11-03 23:10:14] [logging-line:1608] [debug-MainThread] cmdStr:tar -czf perfimg-14-11-03-23-10-14.tar.gz ./perfimg/
+[DEBUG] [Mon,2014-11-03 23:10:14] [logging-line:1608] [debug-MainThread] cmdStr:rm perfimg-14-11-03-23-10-14.tar.gz
+[DEBUG] [Tue,2014-11-04 11:10:32] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:13:27] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:14:28] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-04-11-14-28.tar.gz ./perflog/
+[DEBUG] [Tue,2014-11-04 11:15:16] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Tue,2014-11-04 11:15:19] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-04-11-15-19.tar.gz ./perfimg/
+[DEBUG] [Tue,2014-11-04 11:15:19] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-04-11-15-19.tar.gz
+[DEBUG] [Tue,2014-11-04 11:20:26] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:21:27] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-04-11-21-27.tar.gz ./perflog/
+[DEBUG] [Tue,2014-11-04 11:24:23] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:24:53] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:25:54] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-04-11-25-54.tar.gz ./perflog/
+[DEBUG] [Tue,2014-11-04 11:26:51] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Tue,2014-11-04 11:26:56] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-04-11-26-56.tar.gz ./perfimg/
+[DEBUG] [Tue,2014-11-04 11:26:56] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-04-11-26-56.tar.gz
+[DEBUG] [Tue,2014-11-04 11:28:39] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:29:40] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-04-11-29-40.tar.gz ./perflog/
+[DEBUG] [Tue,2014-11-04 11:29:52] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Tue,2014-11-04 11:29:56] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-04-11-29-56.tar.gz ./perfimg/
+[DEBUG] [Tue,2014-11-04 11:29:56] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-04-11-29-56.tar.gz
+[DEBUG] [Tue,2014-11-04 11:35:16] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perflog/*
+[DEBUG] [Tue,2014-11-04 11:36:18] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perflog.14-11-04-11-36-18.tar.gz ./perflog/
+[DEBUG] [Tue,2014-11-04 11:36:27] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm ./perfimg/*
+[DEBUG] [Tue,2014-11-04 11:36:32] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:tar -czf perfimg-14-11-04-11-36-32.tar.gz ./perfimg/
+[DEBUG] [Tue,2014-11-04 11:36:33] [cmdLib.py-line:12] [cmd_execute-MainThread] cmdStr:rm perfimg-14-11-04-11-36-32.tar.gz

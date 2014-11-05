@@ -1,7 +1,7 @@
 perfmonitor
 ===========
 
-linux 进程级别性能监控工具，输出指定进程的cpu、内存占用曲线
+linux/windows 进程级别性能监控工具，输出指定进程的cpu、内存占用曲线
 
 ### 简介:
 * 基于psutil开发，跨平台。
